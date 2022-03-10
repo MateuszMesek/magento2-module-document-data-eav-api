@@ -5,7 +5,7 @@
     "require": {
         "magento/framework": "*",
         "magento/module-eav": "*",
-        "mateuszmesek-magento2/module-document-data-api": "^1.0"
+        "mateuszmesek-magento2/module-document-data-api": "*"
     },
     "license": [
         "MIT"
