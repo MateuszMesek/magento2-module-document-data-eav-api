@@ -1,9 +1,9 @@
 <?php declare(strict_types=1);
 
-namespace MateuszMesek\DocumentEavApi;
+namespace MateuszMesek\DocumentDataEavApi;
 
 use Magento\Eav\Api\Data\AttributeInterface;
-use MateuszMesek\Document\Api\InputInterface;
+use MateuszMesek\DocumentDataApi\InputInterface;
 
 interface AttributeValueResolverInterface
 {
